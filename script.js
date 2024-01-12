@@ -1,6 +1,6 @@
 function showAlertOnLoad() {
     
-    alert(say());
+    alert("आगया मरवाने अपनी गांड");
 }
 
 // Function to display an alert on page exit
